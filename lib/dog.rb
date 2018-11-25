@@ -8,3 +8,5 @@ class Dog
     @mood = mood
   end
 end
+
+Tucker = Dog.new("Tucker")
